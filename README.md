@@ -1,2 +1,2 @@
 # ip-tv-maroc
-ip-tv/vlc
+ip-tv vlc
