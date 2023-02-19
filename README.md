@@ -6,3 +6,4 @@ al oula
 al maghribia
 assadissa
 medi1 tv
+# open with vlc media player
