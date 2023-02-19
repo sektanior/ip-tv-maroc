@@ -1,7 +1,7 @@
 # ip-tv-maroc
 ip-tv vlc
 
-al oula
+al aoula
 2m monde
 al maghribia
 assadissa
