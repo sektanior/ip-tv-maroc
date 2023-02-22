@@ -19,6 +19,8 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.
 http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Spacetoon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1,National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Mbc5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,MBC 3
